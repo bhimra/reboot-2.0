@@ -1,6 +1,6 @@
 # Assignment-1
 
-![Assignment](https://github.com//reboot-2.0/blob/master/1/ASSIGNMENT.png?raw=true)
+![Assignment](https://github.com/bhimra/reboot-2.0/blob/master/1/ASSIGNMENT.png?raw=true)
 
 ## Question 1 : Block System Call :
 
